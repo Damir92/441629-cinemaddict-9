@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дамир Масалимов](https://up.htmlacademy.ru/ecmascript/9/user/441629).
-* Наставник: `Неизвестно`.
+* Наставник: [Дамир Масалимов](https://up.htmlacademy.ru/ecmascript/9/user/441629).
 
 ---
 
